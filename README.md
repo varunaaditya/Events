@@ -12,11 +12,11 @@
 
 
 
-    <body bgcolor="black" style="color:yellow ">
+    <body bgcolor="black" style="color:red ">
 
         <center>
 
-        <h1>YEAH VIJI EVENTS💕</h1>
+        <h1>YEAH VARUN EVENTS💕</h1>
 
         <p>Dont miss ur impornt events. stay tuned</p>
 
