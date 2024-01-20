@@ -5,9 +5,6 @@
         <title>events</title>
 
     </head>
-
-
-
     <body bgcolor="black" style="color:red ">
 
         <center>
