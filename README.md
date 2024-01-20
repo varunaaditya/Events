@@ -4,8 +4,6 @@
 
         <title>events</title>
 
-        <link rel="icon" href=img/date.png>
-
     </head>
 
 
